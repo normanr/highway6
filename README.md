@@ -1,7 +1,7 @@
 Required libraries:
 
 * https://code.google.com/p/impacket/
-* https://launchpad.net/pytap
+* https://github.com/johnthagen/pytap2
 
 Usage:
 
